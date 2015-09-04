@@ -5,3 +5,6 @@ body {
 p {
 	color: brown;
 }
+id #slogan {
+	font-style: italic;
+}
