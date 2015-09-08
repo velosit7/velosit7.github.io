@@ -2,7 +2,7 @@ body {
 	background-color: green;
 	color: lightbrown;
 	text-align: center;
-	background: url("<a href="http://imgur.com/eufPHf3"><img src="http://i.imgur.com/eufPHf3.jpg?1" title="source: imgur.com" /></a>");
+	background: url("http://imgur.com/eufPHf3");
 }
 p {
 	color: brown;
