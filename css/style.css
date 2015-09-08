@@ -1,10 +1,13 @@
 body {
 	background-color: green;
 	color: lightbrown;
+	text-align: center;
+	background: img src="Images\Atlas.jpg"
 }
 p {
 	color: brown;
 }
+
 id #slogan {
 	font-style: italic;
 }
