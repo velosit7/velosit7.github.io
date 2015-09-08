@@ -1,5 +1,11 @@
- body {text-align: center;
+body {
+	text-align: center;
  	background-color: #000;
- 	color: #fff;
+ 	background-size: cover;
+ 	font-family: "Arial Black", Gadget, Sans-serif;
 	background: url("http://i.imgur.com/eufPHf3.jpg);
+}
+
+ h1, p { 
+ 	font-family: "Arial Black", Gadget, Sans-serif;
 }
