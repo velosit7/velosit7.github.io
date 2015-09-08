@@ -2,7 +2,7 @@ body {
 	background-color: green;
 	color: lightbrown;
 	text-align: center;
-	background: img src="Images\Atlas.jpg"
+	background: url("http://imgur.com/eufPHf3");
 }
 p {
 	color: brown;
