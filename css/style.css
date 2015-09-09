@@ -6,3 +6,9 @@
 	background-size: cover;
 	font-family: "Arial Black", Gadget, Sans-serif;
 }
+img {
+	vertical-align: text-top;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
