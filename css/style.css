@@ -1,12 +1,9 @@
 body {
 	text-align: center;
+	color: #fff;
  	background-color: #000;
  	background-size: cover;
  	font-family: "Arial Black", Gadget, Sans-serif;
 	background: url("http://i.imgur.com/eufPHf3.jpg);
 }
 
- h1, p { 
- 	font-family: "Arial Black", Gadget, Sans-serif;
- 	color: #fff;
-}
