@@ -11,13 +11,9 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	transform: rotatez(70deg);
 }
-div img {
-    width: 200px;
-    height: 100px;
-    background-color: yellow;
-    /* Rotate div */
-    -ms-transform: rotate(45deg); /* IE 9 */
-    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
-    transform: rotate(45deg);
-}
+ h1, ul{ 
+ 	font-family: Verdana, Charcoal, Sans-serif;
+ 	font-size: 22px;
+ }
