@@ -28,4 +28,10 @@ position: fixed;
  }
 slogan{
  font-style: italic; 
+ font-family: 'Oswald', sans-serif;
+ color: blue;
+}
+
+h1 {
+	weight: bold;
 }
