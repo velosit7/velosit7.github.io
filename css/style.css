@@ -1,3 +1,6 @@
+ head{
+ 	color: rgb(220,20,60);
+ }
  body {
  	text-align: center;
  	color: #fff;
@@ -21,6 +24,10 @@ max-height: 300px;
 }
 img{ 
 position: fixed;
+right: 260px;
+left: 300px;
+top: -100px;
+z-index: -1;
 }
  h1, ul{ 
  	font-family: Verdana, Charcoal, Sans-serif;
