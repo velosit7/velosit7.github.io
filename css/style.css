@@ -17,7 +17,7 @@ img {
 	margin-right: auto;
 	transform: rotatez(70deg);
 }
-img{ 
+img{ >
 height: auto;
 width: auto;
 max-width: 300px;
@@ -42,4 +42,13 @@ slogan{
 
 h1 {
 	weight: bold;
+}
+img {
+	border-image-width: 5px;
+}
+h1 {
+	font-family: open sans;
+	font-size: 32px;
+	color: #003777;
+	font-style: italic;
 }

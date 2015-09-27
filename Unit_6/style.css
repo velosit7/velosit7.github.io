@@ -1,0 +1,16 @@
+img {
+	border-image-width: 5px;
+}
+h1 {
+	font-family: open sans;
+	font-size: 32px;
+	color: #003777;
+	font-style: italic;
+}
+img {
+	float: left;
+	margin: 0 0 200px 200px;
+}
+.clearfix {
+	overflow: auto;
+}
