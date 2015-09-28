@@ -1,11 +1,13 @@
+
 img {
 	border-image-width: 5px;
 }
 h1 {
-	font-family: open sans;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 32px;
+	font-variant: small-caps;
 	color: #003777;
-	font-style: italic;
 }
 img {
 	float: left;
